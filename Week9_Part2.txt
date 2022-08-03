@@ -1,0 +1,21 @@
+Week 09-Part 2: Learning Activities
+
+Finish Quiz 3: Time Series Regression, ARIMA, ETS and Cross Validation. Check the Syllabus for due date
+Go over the following video lectures and their associated power point slides :
+
+Module 34A: Cross Validation Techniques
+Go over the  following Python video lectures:
+
+Python Script Video Lecture 10A
+
+The best approach is to open the associated Python Scripts in Spyder IDE, watch the video lectures, pause the video when needed, and execute codes in your own programming environment
+
+Once you feel confident that the Python Scripts provided inside this week's course content run without errors at your end, start
+Upon completion of the python tutorials above, go to Week 09-Part 2 Coding Exercise under assignments and finish the self-graded practice exercise 
+
+ At this point you should have discussed with the instructor about your Final Presentation topic. Please be prepared to ask any technical questions over the next week so that you are ready for your final presentation.
+ Required reading (for Hyndman chapters, ignore the R-codes, focus only on the discussions): 
+
+Hyndman chapter 5.5 - Selecting Predictors (Cross Validations section)
+https://otexts.com/fpp2/selecting-predictors.html
+Prepare final presentation proposal to be discussed in a Live Zoom session next Wednesday. The proposal is due by the end of day 11:59pm next wednesday
